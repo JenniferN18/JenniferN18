@@ -1,5 +1,5 @@
 <!--
-# Hi, I'm Jennef 👋
+# Hi, I'm Jennef Nghipunya 👋
 
 I'm a third-year Informatics student at the Namibia University of Science and Technology (NUST). I love problem-solving, and I'm most interested in how software, databases, and information systems come together to make life easier for real people and organizations.
 
