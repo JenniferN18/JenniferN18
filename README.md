@@ -16,7 +16,7 @@ I enjoy building web apps end to end, from the database and server logic to the 
 - **Livestock Monitoring System**
 - **Budget Tracker System**
 - **Multimedia Application Project**
-- **Local services and gigs marketplace for Namibia** (in progress, with friends) built with Java Servlets, JSP, and MySQL
+- **JenFix** (in progress): a local services platform I'm building on my own using web technologies
 
 Check my pinned repos for more details!
 
